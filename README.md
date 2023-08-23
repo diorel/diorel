@@ -4,10 +4,9 @@ Mi nombre es Diorelyon Cortes. Mi trayectoria se encuentra enfocada en el desarr
 
 Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a optimizar los procesos de las personas. Mi objetivo principal es agilizar tareas a través de soluciones que no solo sean funcionales, sino también estéticamente agradables. En este sentido, me guío por las mejores prácticas de desarrollo, incluyendo los principios SOLID y la filosofía CLEAN CODE, para garantizar sistemas de alta calidad. Estoy comprometido con la búsqueda continua de la excelencia en el desarrollo web y en la mejora constante de la experiencia del usuario.
 
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<h1>Leguajes mas utilizados</h1>  
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+### Leguajes mas utilizados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diorel&langs_count=8&show_icons=true&theme=merko)
 
