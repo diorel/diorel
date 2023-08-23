@@ -1,8 +1,29 @@
-### ¡Hola a todos! Mi nombre es Jorge - aka [Chochy][Facebook] 👋
+### ¡Hola a todos!👋
 
-Saludos, mi nombre es Diorelyon Cortes. Mi trayectoria se encuentra enfocada en el desarrollo web y estoy apasionadamente dedicado a este campo. Poseo una formación autodidacta en conjunto con una licenciatura en informática, complementada por una maestría en administración de negocios. Actualmente, resido en el Estado de México y cuento con experiencia en diversas empresas que abarcan sectores tan variados como el financiero, manufactura y ventas en línea. Mi pericia también abarca la colaboración con equipos internacionales.
+Mi nombre es Diorelyon Cortes. Mi trayectoria se encuentra enfocada en el desarrollo web y estoy apasionadamente dedicado a este campo. Poseo una formación autodidacta en conjunto con una licenciatura en informática, complementada por una maestría en administración de negocios. Actualmente, resido en el Estado de México y cuento con experiencia en diversas empresas que abarcan sectores tan variados como el financiero, manufactura y ventas en línea. Mi pericia también abarca la colaboración con equipos internacionales.
 
 Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a optimizar los procesos de las personas. Mi objetivo principal es agilizar tareas a través de soluciones que no solo sean funcionales, sino también estéticamente agradables. En este sentido, me guío por las mejores prácticas de desarrollo, incluyendo los principios SOLID y la filosofía CLEAN CODE, para garantizar sistemas de alta calidad. Estoy comprometido con la búsqueda continua de la excelencia en el desarrollo web y en la mejora constante de la experiencia del usuario.
+
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
 
 
 - Estos son algunos de mis cursos:
