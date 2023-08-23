@@ -1,6 +1,9 @@
 ### ¡Hola a todos! Mi nombre es Jorge - aka [Chochy][Facebook] 👋
 
-## Soy estudiante, Profesor y desarrollador de Software
+Saludos, mi nombre es Diorelyon Cortes. Mi trayectoria se encuentra enfocada en el desarrollo web y estoy apasionadamente dedicado a este campo. Poseo una formación autodidacta en conjunto con una licenciatura en informática, complementada por una maestría en administración de negocios. Actualmente, resido en el Estado de México y cuento con experiencia en diversas empresas que abarcan sectores tan variados como el financiero, manufactura y ventas en línea. Mi pericia también abarca la colaboración con equipos internacionales.
+
+Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a optimizar los procesos de las personas. Mi objetivo principal es agilizar tareas a través de soluciones que no solo sean funcionales, sino también estéticamente agradables. En este sentido, me guío por las mejores prácticas de desarrollo, incluyendo los principios SOLID y la filosofía CLEAN CODE, para garantizar sistemas de alta calidad. Estoy comprometido con la búsqueda continua de la excelencia en el desarrollo web y en la mejora constante de la experiencia del usuario.
+
 
 - Estos son algunos de mis cursos:
 - 👉[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
