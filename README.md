@@ -12,7 +12,7 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
 
 ### Mis lenguajes y herramientas:
 <br />
-
+---
 Desarrollo Back-End:
 <br />
 <br />
