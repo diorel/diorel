@@ -6,8 +6,4 @@
 
 ## Leguajes mas utilizados 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diorel&size_weight=0.5&count_weight=0.5)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diorel&langs_count=8&show_icons=true&theme=radical)
