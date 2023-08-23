@@ -19,6 +19,8 @@ __Desarrollo Back-End:__
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/kotlin/kotlin-original.svg" width="30" height="30" />
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
 <br />
 
 ---
