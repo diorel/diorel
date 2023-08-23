@@ -48,7 +48,7 @@ Otros:
 ---
 ### Mis estadisticas en Githup son:
 ---
-<p align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diorel&show_icons=true&theme=merko) />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diorel&show_icons=true&theme=merko) 
 
 <!--START_SECTION:waka-->
 
