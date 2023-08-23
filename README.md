@@ -10,7 +10,7 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diorel&langs_count=8&show_icons=true&theme=merko)
 
-Mis lenguajes y herramientas:
+### Mis lenguajes y herramientas:
 <br />
 <br />
 __Desarrollo Back-End:__
