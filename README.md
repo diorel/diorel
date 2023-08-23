@@ -12,7 +12,7 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
  
 ## Mis lenguajes y herramientas:
 
-### __Desarrollo Back-End:__
+## Desarrollo Back-End:
 <br />
 <br />
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
@@ -20,7 +20,7 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br />
 ---
-### __Desarrollo Frond-end:__
+## Desarrollo Frond-end:
 <br />
 <br />
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,7 +29,7 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <br />
 ---
-### __Bases de datos:__
+## Bases de datos:
 <br />
 <br />
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
@@ -38,7 +38,7 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <br />
 ---
-### __Otros:__
+## Otros:
 <br />
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
