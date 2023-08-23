@@ -20,10 +20,6 @@ __Desarrollo Back-End:__
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br />
 
-__Desarrollo Móvil:__
-<br />
-
-
 ---
 ## Desarrollo Frond-end:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -47,6 +43,24 @@ __Desarrollo Móvil:__
 <br />
 
 ## Mis estadisticas en Githup son:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diorel&show_icons=true&theme=merko)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+HTML             8 hrs 40 mins   ██████████████░░░░░░░░░░░   55.96 %
+TypeScript       3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+JavaScript       2 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+Bash             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Other            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+```
+
+<!--END_SECTION:waka-->
+
+
+
 
 
