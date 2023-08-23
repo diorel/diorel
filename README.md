@@ -50,11 +50,7 @@ Otros:
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diorel&show_icons=true&theme=merko)
 
-### Contactame!:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-
+### Contactame:
+---
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />]
 <br />
-
-
-
-
