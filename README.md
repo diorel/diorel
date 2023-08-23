@@ -19,7 +19,7 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br />
----
+
 ## Desarrollo Frond-end:
 <br />
 <br />
@@ -28,7 +28,7 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <br />
----
+
 ## Bases de datos:
 <br />
 <br />
@@ -37,7 +37,7 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <br />
----
+
 ## Otros:
 <br />
 <br />
