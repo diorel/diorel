@@ -46,20 +46,14 @@ __Desarrollo Back-End:__
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+### Contactame!:
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-HTML             8 hrs 40 mins   ██████████████░░░░░░░░░░░   55.96 %
-TypeScript       3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
-JavaScript       2 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
-Bash             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Other            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-```
-
-<!--END_SECTION:waka-->
-
+[<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][instagram]
+[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />][Facebook]
+<br />
 
 
 
