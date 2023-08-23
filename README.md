@@ -7,6 +7,13 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+
+## Leguajes mas utilizados 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diorel&langs_count=8&show_icons=true&theme=merko)
+
+ 
+
 ## Mis estadisticas en Githup son:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diorel&show_icons=true&theme=merko)
 
