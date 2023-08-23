@@ -16,9 +16,6 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diorel&show_icons=true&theme=merko)
 
 
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
 
 **Lenguajes y herramientas:**  
 
