@@ -50,6 +50,20 @@ Otros:
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diorel&show_icons=true&theme=merko)
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+HTML             8 hrs 40 mins   ██████████████░░░░░░░░░░░   55.96 %
+TypeScript       3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+JavaScript       2 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+Bash             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Other            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+```
+
+<!--END_SECTION:waka-->
+
+
 ### Contactame:
 ---
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />]
