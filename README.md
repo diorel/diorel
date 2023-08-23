@@ -65,6 +65,5 @@ Other            11 mins         ▒░░░░░░░░░░░░░░�
 
 ### Contactame:
 ---
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin][https://www.linkedin.com/in/raul-diorelyon-cortes-amador-341b176b/]
 [<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][https://www.linkedin.com/in/raul-diorelyon-cortes-amador-341b176b/]
 <br />
