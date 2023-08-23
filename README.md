@@ -12,7 +12,7 @@ Mi entusiasmo yace en la creación de herramientas innovadoras destinadas a opti
  
 ## Mis lenguajes y herramientas:
 
-__Desarrollo Back-End:__
+### __Desarrollo Back-End:__
 <br />
 <br />
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
@@ -20,7 +20,7 @@ __Desarrollo Back-End:__
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br />
 ---
-__Desarrollo Frond-end:__
+### __Desarrollo Frond-end:__
 <br />
 <br />
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,7 +29,7 @@ __Desarrollo Frond-end:__
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <br />
 ---
-__Bases de datos:__
+### __Bases de datos:__
 <br />
 <br />
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
@@ -38,7 +38,7 @@ __Bases de datos:__
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <br />
 ---
-__Bases de datos:__
+### __Otros:__
 <br />
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
